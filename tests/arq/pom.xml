@@ -25,7 +25,7 @@
         <version.wildfly.arquillian>2.1.1.Final</version.wildfly.arquillian>
         <version.jboss.logmanager>2.1.4.Final</version.jboss.logmanager>
         <version.xnio>3.7.9.Final</version.xnio>
-        <version.okhttp>3.11.0</version.okhttp>
+        <version.okhttp>4.9.2</version.okhttp>
 
         <image>registry.access.redhat.com/redhat-openjdk-18/openjdk18-openshift:1.6</image>
         <image.stream.version>8</image.stream.version>
